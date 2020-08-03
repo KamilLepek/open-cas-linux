@@ -1,4 +1,4 @@
-Open CAS  accelerates Linux applications by caching active (hot) data to
+xOpen CAS  accelerates Linux applications by caching active (hot) data to
 a local flash device inside servers. Open CAS implements caching at the
 server level, utilizing local high-performance flash media as the cache drive
 media inside the application server as close as possible to the CPU, thus
